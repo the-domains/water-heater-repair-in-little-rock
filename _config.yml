@@ -1,0 +1,28 @@
+name: Water Heater Repair In Little Rock
+favicon: null
+layout_spectrum: 0.0777464674320072
+typography_spectrum: 0.6771316304802895
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.10895469319075346
+  lightness: 0.9911160641349852
+  saturation: 0.47605943819507957
+  rhythmicContrast: 0.3017136720009148
+purpose: []
