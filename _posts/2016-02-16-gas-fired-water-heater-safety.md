@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T16:03:45.124Z'
-dateModified: '2016-02-15T16:25:10.504Z'
+datePublished: '2016-02-16T20:17:12.033Z'
+dateModified: '2016-02-16T17:06:49.078Z'
+title: Gas-Fired Water Heater Safety
+author: []
+sourcePath: _posts/2016-02-16-gas-fired-water-heater-safety.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: Gas-Fired Water Heater Safety
-author: []
-sourcePath: _posts/2016-02-16-gas-fired-water-heater-safety.md
-published: true
 url: gas-fired-water-heater-safety/index.html
 _type: Article
 
@@ -52,11 +52,3 @@ To reduce the hazard of flammable vapors, consumers should:
 * Keep all flammable materials and liquids away from gas-fired water heaters. 
 
 U.S. Consumer Product Safety Commission
-
-Read more: 
-
-[http://www.kevinshawplumbing.com/webapp/p/354/gas-fired-water-heater-safety\#ixzz40FqVtjJY][0]
-
-All content may be subject to copyright by Online-Access, Inc. To view the Terms & Conditions, visit http://terms.online-access.com/webapp/GetPage?pid=1&CO=1 
-
-[0]: http://www.kevinshawplumbing.com/webapp/p/354/gas-fired-water-heater-safety#ixzz40FqVtjJY
