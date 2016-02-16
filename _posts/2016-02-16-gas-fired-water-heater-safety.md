@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T20:17:12.033Z'
-dateModified: '2016-02-16T17:06:49.078Z'
+datePublished: '2016-02-16T20:45:04.123Z'
+dateModified: '2016-02-16T20:44:57.657Z'
 title: Gas-Fired Water Heater Safety
 author: []
 sourcePath: _posts/2016-02-16-gas-fired-water-heater-safety.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: gas-fired-water-heater-safety/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Gas-Fired Water Heater Safety
