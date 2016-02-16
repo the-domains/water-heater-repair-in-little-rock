@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T16:02:56.543Z'
-dateModified: '2016-02-15T16:24:33.987Z'
+datePublished: '2016-02-16T20:17:17.377Z'
+dateModified: '2016-02-16T16:21:43.772Z'
+title: Choosing a Water Heater
+author: []
+sourcePath: _posts/2016-02-16-choosing-a-water-heater.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: Choosing a Water Heater
-author: []
-sourcePath: _posts/2016-02-16-choosing-a-water-heater.md
-published: true
 url: choosing-a-water-heater/index.html
 _type: Article
 
@@ -47,11 +47,3 @@ For safety as well as energy-efficiency reasons, when buying gas- and oil-fired 
 Finally, it can save you energy and money to put some thought into the best location for your water heater. Whenever possible, do not install the water heater in an unheated basement. Also try to minimize the piping runs to your bathroom and kitchen.
 
 U.S. Department of Energy
-
-Read more: 
-
-[http://www.kevinshawplumbing.com/webapp/p/204/choosing-a-water-heater\#ixzz40FqMjnbr][0]
-
-All content may be subject to copyright by Online-Access, Inc. To view the Terms & Conditions, visit http://terms.online-access.com/webapp/GetPage?pid=1&CO=1 
-
-[0]: http://www.kevinshawplumbing.com/webapp/p/204/choosing-a-water-heater#ixzz40FqMjnbr
