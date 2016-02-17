@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: Gas Water Heater
-datePublished: '2016-02-17T14:18:18.461Z'
-dateModified: '2016-02-17T14:18:12.014Z'
+datePublished: '2016-02-17T17:29:37.884Z'
+dateModified: '2016-02-17T14:59:32.531Z'
 title: |-
   A.O.
   Smith Water Heaters
@@ -20,8 +21,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: ao-smith-water-heaters/index.html
-_type: Article
+_type: Blurb
 
 ---
 Atmospheric Vent Water Heaters: 
