@@ -1,27 +1,27 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T20:20:52.447Z'
-dateModified: '2016-02-17T20:20:38.745Z'
+datePublished: '2016-02-17T21:36:08.096Z'
+dateModified: '2016-02-17T21:35:42.601Z'
 title: |-
   Why
   You Should Have Your Water Heater Professionally Installed
 author: []
+sourcePath: _posts/2016-02-17-why-you-should-have-your-water-heater-professionally-install.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-17-why-you-should-have-your-water-heater-professionally-install.md
-published: true
 url: why-you-should-have-your-water-heater-professionally-install/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Why
