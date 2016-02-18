@@ -1,27 +1,27 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T21:27:47.534Z'
-dateModified: '2016-02-17T21:19:34.064Z'
+datePublished: '2016-02-18T19:28:09.935Z'
+dateModified: '2016-02-18T19:27:28.280Z'
 title: |-
   Rinnai
   Continuum – Tankless Water Heaters in Pulaski County
 author: []
+sourcePath: _posts/2016-02-17-rinnai-continuum-tankless-water-heaters-in-pulaski-county.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-17-rinnai-continuum-tankless-water-heaters-in-pulaski-county.md
-published: true
 url: rinnai-continuum-tankless-water-heaters-in-pulaski-county/index.html
-_type: Article
+_type: WebPage
 
 ---
 Rinnai
