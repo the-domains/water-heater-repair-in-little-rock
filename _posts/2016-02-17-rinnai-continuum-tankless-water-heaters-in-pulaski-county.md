@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Tankless Water Heater installation and repair by Associated Plumbers 501-666-9483 in  Little Rock North Little Rock Sherwood Maumelle Mabelvale
-datePublished: '2016-02-24T19:08:28.551Z'
-dateModified: '2016-02-24T19:02:38.422Z'
+datePublished: '2016-02-24T19:10:48.013Z'
+dateModified: '2016-02-24T19:10:44.197Z'
 title: RinnaiContinuum – Tankless Water Heaters in Pulaski County
 author: []
 sourcePath: _posts/2016-02-17-rinnai-continuum-tankless-water-heaters-in-pulaski-county.md
@@ -80,10 +80,7 @@ at the rate of up to 9.8 gallons per minute..**
 
 If you want never ending hot water instantly.
 
-## We
-Provide Rinnai Tankless Water Heaters in the Following Areas:
-
-Little
+## Little
 Rock, AR |North
 Little Rock | Sherwood,
 AR | Maumelle,
