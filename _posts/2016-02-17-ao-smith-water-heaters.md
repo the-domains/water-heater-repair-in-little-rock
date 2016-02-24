@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Gas Water Heater
-datePublished: '2016-02-24T16:38:18.361Z'
-dateModified: '2016-02-24T16:37:42.078Z'
+datePublished: '2016-02-24T18:16:20.025Z'
+dateModified: '2016-02-24T18:16:16.736Z'
 title: |-
   A.O.
   Smith Water Heaters
