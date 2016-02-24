@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Gas Water Heater
-datePublished: '2016-02-17T21:51:30.361Z'
-dateModified: '2016-02-17T21:48:08.279Z'
+datePublished: '2016-02-24T16:38:18.361Z'
+dateModified: '2016-02-24T16:37:42.078Z'
 title: |-
   A.O.
   Smith Water Heaters
@@ -28,7 +28,7 @@ Atmospheric Vent Water Heaters:
 
 # A.O.
 Smith Water Heaters
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/679761c6b9f29bfc5c9adeaf9ffd906c5ff9a27f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/579695bf89a3c1c4faf1ffecf576c82cd6a319f1.jpg)
 
 A.O. Smith as one of the worlds largest water heater manufacturer
 offers the solutions to any water heating need you may encounter.
