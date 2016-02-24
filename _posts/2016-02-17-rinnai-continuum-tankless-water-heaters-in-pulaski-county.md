@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Tankless Water Heater installation and repair by Associated Plumbers 501-666-9483 in  Little Rock North Little Rock Sherwood Maumelle Mabelvale
-datePublished: '2016-02-24T19:33:41.636Z'
-dateModified: '2016-02-24T19:33:41.301Z'
+datePublished: '2016-02-24T21:03:03.304Z'
+dateModified: '2016-02-24T21:02:53.080Z'
 title: 'Rinnai Tankless Water Heaters '
 author: []
 sourcePath: _posts/2016-02-17-rinnai-continuum-tankless-water-heaters-in-pulaski-county.md
@@ -27,7 +27,6 @@ Rinnai Tankless water heater installation and repair by Associated Plumbers 501-
 **Rinnai
 Continuum provides never-ending hot water to households 24 hours a
 day at the rate of up to 9.8 gallons per minute.**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/97fb3e99-dcf2-4473-a5b3-61296902eebc.jpg)
 
 This unique feature allows homeowners the luxury of using multiple
 hot water sources at once without any loss of temperature
