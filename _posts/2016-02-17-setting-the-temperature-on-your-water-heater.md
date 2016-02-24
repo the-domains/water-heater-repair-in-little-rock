@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-24T18:13:41.535Z'
-dateModified: '2016-02-24T18:13:31.700Z'
+datePublished: '2016-02-24T18:14:36.909Z'
+dateModified: '2016-02-24T18:13:49.197Z'
 title: "Setting\nthe Temperature on your Water Heater "
 author: []
 sourcePath: _posts/2016-02-17-setting-the-temperature-on-your-water-heater.md
