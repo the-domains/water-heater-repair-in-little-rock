@@ -1,16 +1,14 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-18T19:54:14.947Z'
-dateModified: '2016-02-18T19:53:48.249Z'
-title: |-
-  Rinnai
-  Continuum – Tankless Water Heaters in Pulaski County
+description: Tankless Water Heater installation and repair by Associated Plumbers 501-666-9483 in  Little Rock North Little Rock Sherwood Maumelle Mabelvale
+datePublished: '2016-02-24T19:01:45.055Z'
+dateModified: '2016-02-24T19:01:40.626Z'
+title: RinnaiContinuum – Tankless Water Heaters in Pulaski County
 author: []
 sourcePath: _posts/2016-02-17-rinnai-continuum-tankless-water-heaters-in-pulaski-county.md
 published: true
@@ -21,15 +19,9 @@ publisher:
   url: null
   favicon: null
 url: rinnai-continuum-tankless-water-heaters-in-pulaski-county/index.html
-_type: WebPage
+_type: Article
 
 ---
-Rinnai
-Continuum 
-
-# Rinnai
-Continuum -- Tankless Water Heaters in Pulaski County
-
 **Rinnai
 Continuum provides never-ending hot water to households 24 hours a
 day at the rate of up to 9.8 gallons per minute.**
