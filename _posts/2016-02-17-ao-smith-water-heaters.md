@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Gas/Electric Water Heater
-datePublished: '2016-02-24T19:11:18.850Z'
-dateModified: '2016-02-24T19:11:15.653Z'
+datePublished: '2016-02-24T19:12:40.669Z'
+dateModified: '2016-02-24T19:12:37.477Z'
 title: |-
   A.O.
   Smith Water Heaters
