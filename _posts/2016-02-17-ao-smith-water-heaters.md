@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Gas/Electric Water Heater
-datePublished: '2016-02-24T18:33:37.520Z'
-dateModified: '2016-02-24T18:33:32.315Z'
+datePublished: '2016-02-24T18:45:08.715Z'
+dateModified: '2016-02-24T18:43:17.476Z'
 title: |-
   A.O.
   Smith Water Heaters
@@ -24,7 +24,7 @@ url: ao-smith-water-heaters/index.html
 _type: Article
 
 ---
-Atmospheric Vent Water Heaters: 
+A.O Smith water heater installation by Associated Plumbers 501-666-9483 in Little Rock  North Little Rock Sherwood Maumelle Mabelvale 
 
 # A.O.
 Smith Water Heaters
