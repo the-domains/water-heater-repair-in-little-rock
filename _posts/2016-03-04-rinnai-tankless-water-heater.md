@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Rinnai Tankless water heater installation and repair by Associated Plumbers 501-666-9483
-datePublished: '2016-03-04T17:55:33.241Z'
-dateModified: '2016-03-04T17:55:27.569Z'
-title: "Rinnai Tankless Water Heaters\_"
+datePublished: '2016-03-04T18:01:44.958Z'
+dateModified: '2016-03-04T18:01:41.082Z'
+title: Never Ending Hot Water
 author: []
 sourcePath: _posts/2016-03-04-rinnai-tankless-water-heater.md
 published: true
@@ -24,7 +24,7 @@ _type: Article
 ---
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e827f286cca78e425112dc1aae1a0f2e/passthrough.jpg?height=365&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fe41ed41abb0597588b3b394bd644f2f1ac91c7c5.jpg&width=750)
 
-# Rinnai Tankless Water Heaters 
+# Never Ending Hot Water
 
 Rinnai Continuum provides never-ending hot water to households 24 hours a day at the rate of up to 9.8 gallons per minute.
 This unique feature allows homeowners the luxury of using multiple hot water sources at once without any loss of temperature consistency. 
