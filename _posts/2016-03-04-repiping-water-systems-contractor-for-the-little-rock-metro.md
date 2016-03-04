@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T21:08:54.329Z'
-dateModified: '2016-03-04T21:08:49.018Z'
+datePublished: '2016-03-04T21:26:13.134Z'
+dateModified: '2016-03-04T21:25:54.330Z'
 title: Repiping Water Systems Contractor for the Little Rock Metro Area
 author: []
 sourcePath: _posts/2016-03-04-repiping-water-systems-contractor-for-the-little-rock-metro.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: repiping-water-systems-contractor-for-the-little-rock-metro/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Repiping Water Systems Contractor for the Little Rock Metro Area
