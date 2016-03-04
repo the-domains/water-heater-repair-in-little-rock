@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Rinnai Tankless water heater installation and repair by Associated Plumbers 501-666-9483
-datePublished: '2016-03-04T17:55:16.542Z'
-dateModified: '2016-03-04T17:55:06.811Z'
+datePublished: '2016-03-04T17:55:33.241Z'
+dateModified: '2016-03-04T17:55:27.569Z'
 title: "Rinnai Tankless Water Heaters\_"
 author: []
 sourcePath: _posts/2016-03-04-rinnai-tankless-water-heater.md
