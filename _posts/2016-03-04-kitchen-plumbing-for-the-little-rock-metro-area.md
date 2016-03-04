@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T21:55:58.653Z'
-dateModified: '2016-03-04T21:52:04.560Z'
+datePublished: '2016-03-04T22:34:03.332Z'
+dateModified: '2016-03-04T22:33:24.314Z'
 title: Kitchen Plumbing for the Little Rock Metro Area
 author: []
 sourcePath: _posts/2016-03-04-kitchen-plumbing-for-the-little-rock-metro-area.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: kitchen-plumbing-for-the-little-rock-metro-area/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Kitchen Plumbing for the Little Rock Metro Area
