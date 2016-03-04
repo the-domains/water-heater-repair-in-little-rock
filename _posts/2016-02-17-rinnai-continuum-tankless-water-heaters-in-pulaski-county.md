@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Plumbing Services provided by Associated Plumbers 501-666-9483 in  Little Rock North Little Rock Sherwood Maumelle Mabelvale
-datePublished: '2016-03-04T18:37:42.100Z'
-dateModified: '2016-03-04T18:37:22.721Z'
+datePublished: '2016-03-04T18:42:34.531Z'
+dateModified: '2016-03-04T18:42:08.149Z'
 title: Services
 author: []
 sourcePath: _posts/2016-02-17-rinnai-continuum-tankless-water-heaters-in-pulaski-county.md
@@ -26,7 +26,6 @@ Faucet Repair and Installation
 
 [Drain and Sewer Service][0]
 
-[Water Heater][1]
+[Water Heater][0]
 
-[0]: https://app.thegrid.io/sites/4c846d19-3bea-4c1e-b148-9f985a113dc0/posts/1c96093c-babc-4d84-9b22-72f52b37d576
-[1]: null
+[0]: null
