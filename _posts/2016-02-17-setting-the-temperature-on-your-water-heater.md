@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Is your water too Hot too Cold? Call Associated Plumbers 501-666-9483
-datePublished: '2016-02-24T18:31:42.059Z'
-dateModified: '2016-02-24T18:31:39.609Z'
+datePublished: '2016-03-04T15:56:58.089Z'
+dateModified: '2016-03-04T15:56:44.552Z'
 title: "Setting\nthe Temperature on your Water Heater "
 author: []
 sourcePath: _posts/2016-02-17-setting-the-temperature-on-your-water-heater.md
@@ -22,6 +22,8 @@ url: setting-the-temperature-on-your-water-heater/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fe3a3b1-5661-4fbd-8bc8-ed516208462d.jpg)
+
 # Setting
 the Temperature on your Water Heater 
 
