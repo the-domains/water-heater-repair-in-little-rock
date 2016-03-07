@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Is your water too Hot too Cold? Call Associated Plumbers 501-666-9483
-datePublished: '2016-03-04T16:08:18.954Z'
-dateModified: '2016-03-04T16:07:45.128Z'
+datePublished: '2016-03-07T20:24:06.283Z'
+dateModified: '2016-03-07T20:24:05.161Z'
 title: "Setting\nthe Temperature on your Water Heater "
 author: []
 sourcePath: _posts/2016-02-17-setting-the-temperature-on-your-water-heater.md
@@ -45,37 +45,6 @@ could result in third-degree burns. Various procedures for lowering
 water temperature in the home exist, depending on the method of
 heating. Here are some suggestions:
 
-**Electric
-water heaters**
-
-.
-Call your local electric company to adjust the thermostat. Some
-companies offer this service at no-charge. Hot water should not be
-used for at least two hours prior to setting. To make the adjustment
-yourself, start by shutting off current to the water heater, then
-turn off the circuit breaker to the heater or remove the fuse that
-serves the heater. Most electric water heaters have two thermostats,
-both of which must be set to a common temperature for proper
-operation. To reach these thermostats you must remove the upper and
-lower access panels. Adjust the thermostat following the instructions
-provided with the appliance. Hold a candy or meat thermometer under
-the faucet to check water temperature.
-
-**Gas
-water heaters**
-
-.
-Because thermostats differ, call your local gas company for
-instructions. Where precise temperatures are not given, hold a candy
-or meat thermometer under faucet for most accurate reading first
-thing in the morning or at least two hours after water use. If
-reading is too high, adjust thermostat on heater, according to
-manufacturer's instructions, and check again with thermometer.
-
-If you live in an apartment, contact
-the building manager to discuss possible options for lowering your
-tap water temperature. 
-
 CPSC
 notes that a thermostat setting of 120 degrees Fahrenheit (49 degrees
 Celsius) may be necessary for residential water heaters to reduce or
@@ -92,3 +61,30 @@ defense against accidents and scalding to infants and young children.
 
 U.S.
 Consumer Product Safety Commission
+
+## Don't Get Burned!...An Anti-Scald Device Will Protect Your Family
+
+In homes where there is a high demand for hot water, homeowners often turn up the temperature on their hot water heaters to meet this need, sometimes well beyond the 120 degree Fahrenheit factory setting considered safe. Temperatures higher than this can cause severe scalding. At highest risk are children and elderly or disabled persons.
+
+In such situations, installing an anti-scald device is an affordable way to protect against this risk.
+
+## Scalding Facts
+
+* Hot water scalds account for 20% of all burns
+* More than 2,000 American children are treated for scalds each year
+* Scalding accidents occur most frequently in the bathrooms and kitchens where they are most preventable
+* Scalding leads to additional injuries such as heart attacks, shock, falls, and serious broken bones, particularly among the elderly
+* Scalding and other burns require the most expensive treatments: long hospital stays, costly skin grafts, and plastic surgery
+* Most U.S. states now mandate some form of anti-scald measures in building codes
+
+Source: Shriner Burns Hospital
+
+## Hot Water Re-Circulation Systems  
+
+## _...When You Need a Lot of Hot Water Fast_
+
+If you demand a lot of hot water with minimal waiting on your hot water heater, a hot water recirculation system may be the solution for you. The system consists of a small pump mounted near the bottom of your water heater along with a swing check valve and return line from your farthest fixture. The cost of operating such a system can be minimized using new energy efficient pumps and incorporating a timer and/or thermostat to program the system to turn off when it detects ample hot water or during times of day when the demand for hot water is reduced.
+
+## Shower Without Fear of Hot Water Spikes
+
+Nothing disrupts a relaxing shower like a rush of scalding water when someone flushes a toilet. This causes changes in your pressure in the water line supplying your shower, and when you have changes in pressure on one side and not the other, you will feel the result of different volumes of hot versus cold water. Fortunately, this common problem is easily solved by installing a pressure balance device on the hot and cold water that feeds the shower faucet to detect changes in pressure and automatically balance it. Alternatively, you can have the shower faucet replaced with a pressure balance faucet. Want to shower without fear? We'll be happy to help.
