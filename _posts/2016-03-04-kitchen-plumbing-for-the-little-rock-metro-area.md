@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-04T22:34:03.332Z'
-dateModified: '2016-03-04T22:33:24.314Z'
+description: "Associated Plumbers, Inc. has been serving the Little Rock area since 1947. What started as a new construction company ( Clint Reynolds Plumbing) in the late 1960's they decided to focus on the service and repair side of the trade. Though many companies jokingly claim, “We fix what your husband broke!” Associated Plumbers, Inc. has gained the reputation for solving problems that even other plumbing companies can’t diagnose or repair."
+datePublished: '2016-03-09T17:44:12.351Z'
+dateModified: '2016-03-09T17:43:59.011Z'
 title: Kitchen Plumbing for the Little Rock Metro Area
 author: []
 sourcePath: _posts/2016-03-04-kitchen-plumbing-for-the-little-rock-metro-area.md
@@ -49,10 +49,6 @@ Associated Plumbers, Inc. has been serving the Little Rock area since 1947\. Wha
 
 Little Rock, AR | North Little Rock, AR | Sherwood, AR| Maumelle, AR | Sweet Home, AR | College Station, AR | Mabelvale, AR | Pulaski County, AR |  |  |  | 
 
-[And more][0]
-
-## Why San Little Rock Metro Should Hire Us For Their Kitchen Plumbing
+Why Little Rock Metro Should Hire Us For Their Kitchen Plumbing
 
 At one time or another, you will require the service and assistance of a Little rock Metro plumber to help in an unplanned crisis or a plumbing installation. Associated Plumbers, Inc can assist you in a variety of ways, including kitchen plumbing, toilet backups, running cold and hot water supplies to the bathroom or kitchen and installing hot water heaters. With several years of experience and customer satisfaction guaranteed, you can trust Associated Plumbers, Inc to provide you with quality residential plumbing services.
-
-[0]: http://www.kevinshawplumbing.com/
