@@ -2,22 +2,22 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: true
 keywords: []
-description: ''
-datePublished: '2016-03-07T19:31:47.351Z'
-dateModified: '2016-03-07T19:28:33.851Z'
-title: 'Experienced & Skilled Little Rock Plumbers '
+description: 'Experienced & Skilled Plumbers providing Plumbing repair and Drain service to the homes and businesses in the Little Rock Metro area since 1947.'
+datePublished: '2016-05-11T17:34:07.087Z'
+dateModified: '2016-05-11T17:30:12.777Z'
+title: ''
 author: []
 sourcePath: _posts/2016-02-16-experienced-and-skilled-little-rock-plumbers.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+starred: false
 _type: Blurb
 
 ---
